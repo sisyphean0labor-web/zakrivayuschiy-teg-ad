@@ -13,7 +13,7 @@ https://github.com/sisyphean0labor-web/zakrivayuschiy-teg-ad
 
 ```
 git pull https://github.com/sisyphean0labor-web/zakrivayuschiy-teg-ad
-cd zakrivayuschiy-teg-f
+cd zakrivayuschiy-teg-ad
 npm install
 npm run dev
 ```
